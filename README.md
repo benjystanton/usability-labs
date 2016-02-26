@@ -5,6 +5,7 @@ A list of usability research labs in the UK that are available for hire. Thanks 
 ## Labs available for hire
 
 - [BOX UK, Cardiff](https://www.boxuk.com/)
+- [User Viewing, Bristol](http://www.userviewing.co.uk/)
 - [60 Watt, Edinburgh](http://www.60wattresearch.co.uk/)
 - [The Talking Shop, Manchester](http://www.thetalkingshop.co.uk/studios/)
 - [Centre for Human Computer Interaction Design, London](http://www.city.ac.uk/centre-for-human-computer-interaction-design)
