@@ -8,6 +8,7 @@ Thanks to everyone who helped with [suggestions on Twitter](https://twitter.com/
 
 ### Wales
 - [BOX UK, Cardiff](https://www.boxuk.com/)
+- [UX@DVLA, Swansea](https://www.digitalmarketplace.service.gov.uk/g-cloud/services/7715666004584140)
 
 ### Scotland
 - [60 Watt, Edinburgh](http://www.60wattresearch.co.uk/)
