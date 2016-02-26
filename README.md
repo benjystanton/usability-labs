@@ -24,6 +24,7 @@ Thanks to everyone who helped with [suggestions on Twitter](https://twitter.com/
 ### Down South
 - [Bunnyfoot, Oxford](http://www.bunnyfoot.com/services/studiosandequipment.php#oxford)
 - [User Viewing, Bristol](http://www.userviewing.co.uk/)
+- [University of Brighton (Moulsecoomb campus)](https://www.brighton.ac.uk/)
 
 ### London
 - [All Global Viewing, Shoreditch](http://www.allglobalviewing.com/)
