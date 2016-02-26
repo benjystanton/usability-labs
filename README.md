@@ -23,6 +23,7 @@ Thanks to everyone who helped with [suggestions on Twitter](https://twitter.com/
 
 ### Down South
 - [Bunnyfoot, Oxford](http://www.bunnyfoot.com/services/studiosandequipment.php#oxford)
+- [CX Partners, Bristol](https://www.cxpartners.co.uk/)
 - [User Viewing, Bristol](http://www.userviewing.co.uk/)
 - [University of Brighton (Moulsecoomb campus)](https://www.brighton.ac.uk/)
 
