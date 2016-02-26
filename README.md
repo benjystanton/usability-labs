@@ -13,21 +13,21 @@ Thanks to everyone who helped with [suggestions on Twitter](https://twitter.com/
 ### Scotland
 - [60 Watt, Edinburgh](http://www.60wattresearch.co.uk/)
 
-### The North
-- [Bunnyfoot, Sheffield](http://www.bunnyfoot.com/services/studiosandequipment.php)
+### Up North
+- [Bunnyfoot, Sheffield](http://www.bunnyfoot.com/services/studiosandequipment.php#sheffield)
 - [Code Computerlove, Manchester](http://www.codecomputerlove.com/)
 - [Sett UX Lab, Bradford](http://www.settuxlab.com/)
 - [Simple Usability, Leeds](http://www.simpleusability.com/)
 - [The Landing, Manchester](http://www.thelanding.org.uk/interactive-media-labs)
 - [The Talking Shop, Manchester](http://www.thetalkingshop.co.uk/studios/)
 
-### The South
-- [Bunnyfoot, Oxford](http://www.bunnyfoot.com/services/studiosandequipment.php)
+### Down South
+- [Bunnyfoot, Oxford](http://www.bunnyfoot.com/services/studiosandequipment.php#oxford)
 - [User Viewing, Bristol](http://www.userviewing.co.uk/)
 
 ### London
 - [All Global Viewing, Shoreditch](http://www.allglobalviewing.com/)
-- [Bunnyfoot, London](http://www.bunnyfoot.com/services/studiosandequipment.php)
+- [Bunnyfoot, London](http://www.bunnyfoot.com/services/studiosandequipment.php#london)
 - [Centre for Human Computer Interaction Design, London](http://www.city.ac.uk/centre-for-human-computer-interaction-design)
 - UKPA-UK, London
 - [Webcredible, London](http://www.webcredible.com/usability-lab-hire)
