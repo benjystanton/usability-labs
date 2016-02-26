@@ -14,6 +14,7 @@ Thanks to everyone who helped with [suggestions on Twitter](https://twitter.com/
 - [60 Watt, Edinburgh](http://www.60wattresearch.co.uk/)
 
 ### Up North
+- [The Bridge, Manchester](http://thebridgeux.com/about)
 - [Bunnyfoot, Sheffield](http://www.bunnyfoot.com/services/studiosandequipment.php#sheffield)
 - [Code Computerlove, Manchester](http://www.codecomputerlove.com/)
 - [Sett UX Lab, Bradford](http://www.settuxlab.com/)
@@ -31,7 +32,7 @@ Thanks to everyone who helped with [suggestions on Twitter](https://twitter.com/
 - [All Global Viewing, Shoreditch](http://www.allglobalviewing.com/)
 - [Bunnyfoot, London](http://www.bunnyfoot.com/services/studiosandequipment.php#london)
 - [Centre for Human Computer Interaction Design, London](http://www.city.ac.uk/centre-for-human-computer-interaction-design)
-- UKPA-UK, London
+- [System Concepts](http://www.system-concepts.com/)
 - [Webcredible, London](http://www.webcredible.com/usability-lab-hire)
 
 ## Other usability lab resources
