@@ -26,6 +26,7 @@ Thanks to everyone who helped with [suggestions on Twitter](https://twitter.com/
 - [User Viewing, Bristol](http://www.userviewing.co.uk/)
 
 ### London
+- [All Global Viewing, Shoreditch](http://www.allglobalviewing.com/)
 - [Bunnyfoot, London](http://www.bunnyfoot.com/services/studiosandequipment.php)
 - [Centre for Human Computer Interaction Design, London](http://www.city.ac.uk/centre-for-human-computer-interaction-design)
 - UKPA-UK, London
